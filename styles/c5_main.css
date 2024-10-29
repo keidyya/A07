@@ -2,7 +2,6 @@
 :root {
 	--global-color-1: #800000;
 }
-* { border: 1px solid red; }
 /* the styles for the elements */
 body {
 	font-family: Arial, Helvetica, sans-serif;
