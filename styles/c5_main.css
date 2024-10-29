@@ -2,15 +2,14 @@
 :root {
 	--global-color-1: #800000;
 }
-
+* { border: 1px solid red; }
 /* the styles for the elements */
 body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-    margin-left: 10px;
 	width: 600px;
 	margin: 0 auto;
-	border: solid #931420 3px;
+	border: 3px solid #931420 ;
 	background-color: white;
 }
 a:focus, a:hover {
@@ -83,13 +82,11 @@ main li {
 
 /* the styles for the footer */
 footer {
-	
-
+	background-color: #931420;
 }
 
 footer p {
 	text-align: center;
 	padding: 1em 0;
 	color: white;
-	background-color: #931420;
 }
