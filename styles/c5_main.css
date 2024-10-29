@@ -83,7 +83,7 @@ main li {
 
 /* the styles for the footer */
 footer {
-	background-color: #931420;
+	
 
 }
 
@@ -91,4 +91,5 @@ footer p {
 	text-align: center;
 	padding: 1em 0;
 	color: white;
+	background-color: #931420;
 }
